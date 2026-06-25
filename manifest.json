@@ -4,7 +4,7 @@
   "description": "A ledger of who you're becoming — build habits and watch your discipline compound, day by day.",
   "start_url": "/Becoming/index.html",
   "scope": "/Becoming/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#17191c",
   "theme_color": "#17191c",
