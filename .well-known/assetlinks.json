@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.tanishkapriya.twa",
-    "sha256_cert_fingerprints": [""]
+    "sha256_cert_fingerprints": ["F3:F2:2B:38:8C:52:71:85:67:44:02:44:3F:62:95:A0:61:16:B8:B2:23:BA:B7:85:D5:70:8E:A5:1D:83:C7:41"]
   }
 }]
